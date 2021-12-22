@@ -3,7 +3,7 @@ import React from 'react';
 const Logo = () => {
     return (
         <h1>
-            <strong>DCODELAB5</strong>
+            <strong>DCODELAB10</strong>
             <br></br>
             <span>UI/UX DESIGN & DEVELOPMENT</span>
         </h1>
